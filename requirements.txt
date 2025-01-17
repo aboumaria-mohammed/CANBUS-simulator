@@ -1,0 +1,2 @@
+# Base Python GUI package
+tk>=8.6
